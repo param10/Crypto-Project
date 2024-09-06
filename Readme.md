@@ -17,15 +17,23 @@ Predictive Analytics: Implements machine learning models such as regression, dec
 Installation
 
 Clone the repository:
+
 bash
 Copy code
+
 git clone https://github.com/param10/Crypto-Project.git
+
 Navigate to the project directory:
+
 bash
 Copy code
+
 cd Crypto-Project
+
 Install the required dependencies:
+
 bash
+
 Copy code
 
 
