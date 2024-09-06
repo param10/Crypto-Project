@@ -15,7 +15,7 @@ Exploratory Data Analysis (EDA): Analyzes the data to discover patterns and anom
 Time Series Analysis: Evaluates time-dependent trends and seasonality in the cryptocurrency market.
 Predictive Analytics: Implements machine learning models such as regression, decision trees, or Prophet.
 Installation
-
+--------------------------------------------------------------------------------------------------------------------------
 Clone the repository:
 
 bash
@@ -35,7 +35,7 @@ Install the required dependencies:
 bash
 
 Copy code
-
+--------------------------------------------------------------------------------------------------------------------------
 
 The dataset includes historical data on various cryptocurrencies, such as Bitcoin, Ethereum, Dogecoin, with details on price, volume, and market capitalization. The dataset is located in the main and is integral to the analysis.
 
